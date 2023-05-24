@@ -117,6 +117,13 @@ max-width: 1100px;
   
 }
 
+.div-p{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+ 
+}
+
 
   /* END OF MAIN */
 
